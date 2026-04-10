@@ -62,9 +62,3 @@ I/O 작업이 진행되는 동안 유저 프로세스는 자신의 작업을 중
 - **그러나 반복적으로 시스템 호출이 발생하기 때문에 이 경우 역시 자원이 낭비된다.**
 
 
-
-### 참고
-
-- [Blocking I/O & Non-Blocking I/O]([https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/%5BNetwork%5D%20Blocking%20Non-Blocking%20IO.md](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer Science/Network/[Network] Blocking Non-Blocking IO.md))
-
-- [블로킹(Blocking), 논블로킹(Non-Blocking) - I/O 모델 (1)](https://ju3un.github.io/network-basic-1/)
