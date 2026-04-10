@@ -69,6 +69,3 @@ public record Person(
 
 <br>
 
-#### [참고 자료]
-
-- [링크](https://coding-start.tistory.com/355)
