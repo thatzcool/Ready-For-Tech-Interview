@@ -62,6 +62,3 @@
 
 
 
-### 참고
-
-- [[Java][자료구조] Tree (1) - 트리의 정의와 특성, 이진트리에 대하여](https://ju-nam2.tistory.com/25?category=868623)
