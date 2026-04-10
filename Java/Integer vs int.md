@@ -40,5 +40,5 @@ Integer
 
 ### 참고
 
-- [[Java] Integer와 int의 차이](https://includestdio.tistory.com/1)
+
 
